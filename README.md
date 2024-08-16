@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mariajsalgadoq
-- 👀 I’m interested in the magic of natural language processing
+- 👀 I’m interested in the magic of natural language processing, AI, and its endlessness
 - 🌱 I’m currently ending a machine learning course and starting my deep learning "learning"
 - 💞️ I’m looking to collaborate on new and fun Machine Learning models!
 - 📫 How to reach me: majo.salgado@nyu.edu
